@@ -1,4 +1,4 @@
-# mvc-task
+# mono-express-next
 
 Este template esta enfocado en realizar una aplicacion web mono repositorio con Frontend en Next.Js y Backend en Express.
 
